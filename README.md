@@ -6,5 +6,5 @@
  Relevent css files are available in `css`.
  
  ## HTML Home Page
- Open from `index.html` folder.
+Home page in `index.html` file.
  
