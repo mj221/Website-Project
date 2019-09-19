@@ -5,6 +5,6 @@
  Relevant image files are available in `images`.
  Relevent css files are available in `css`.
  
- # HTML Home Page
- ## Open from `index.html` folder.
+ ## HTML Home Page
+ Open from `index.html` folder.
  
