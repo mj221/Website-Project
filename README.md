@@ -6,5 +6,5 @@
  Relevent css files are available in the `css` folder. <br />
  
  ## HTML Home Page
-Home page in `index.html` file.
+Home page as `index.html` file.
  
